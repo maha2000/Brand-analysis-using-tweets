@@ -1,4 +1,10 @@
 # Twitter-sentiment-analysis
+
+![language](https://img.shields.io/badge/language-python-orange.svg)
+![library](https://img.shields.io/badge/library-keras-yellow.svg)
+
+
+
 ## What is the project?
 This is a project to predict the sentiment of tweets using Recurrent Neural Networks and Twitter API for python call Tweepy.
 
