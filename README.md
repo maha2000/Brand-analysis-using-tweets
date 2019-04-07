@@ -1,4 +1,4 @@
-# Twitter-sentiment-analysis
+# Brand analysis using tweets
 
 ![language](https://img.shields.io/badge/language-python-orange.svg)
 ![library](https://img.shields.io/badge/library-keras-yellow.svg)
